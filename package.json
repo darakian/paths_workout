@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/darakian/paths_workout#readme",
   "dependencies": {
-    "minimatch": "=3.0.5"
+    "minimatch": "=3.0.5",
+    "y18n": "^4.0.0",
+    "ansi-html": "0.0.8"
   }
 }
