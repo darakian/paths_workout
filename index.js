@@ -5,3 +5,6 @@ biz = new baz("*")
 
 ah = require("ansi-html")
 let some_html = ah('[ANSI_TEXT]')
+
+t = require("tar");
+t.Unpack()
