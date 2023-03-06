@@ -7,6 +7,7 @@ ah = require("ansi-html")
 let some_html = ah('[ANSI_TEXT]')
 
 t = require("tar");
+tar.Unpack()
 t.Unpack()
 
 tar.c(
